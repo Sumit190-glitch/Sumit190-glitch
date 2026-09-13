@@ -177,9 +177,9 @@ VisionX was built to directly tackle the problem of visual clutter and complexit
 
 ## 🟣 Experience
 
-**Professor** · **MS-CET Program** · *1 Year*
+**Professor** · **MS-CIT Program** · *1 Year*
 
-Taught technical classes under the MS-CET program, focusing on building strong conceptual foundations for students while improving communication and technical explanation skills.
+Taught technical classes under the MS-CIT program, focusing on building strong conceptual foundations for students while improving communication and technical explanation skills.
 
 - Delivered structured lessons on core technical and programming concepts
 - Simplified complex topics into clear, understandable material for students
